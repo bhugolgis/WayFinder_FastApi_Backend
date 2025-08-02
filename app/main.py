@@ -1,9 +1,11 @@
 from fastapi import FastAPI, Query
 from typing import List, Optional
 from fastapi.responses import JSONResponse
+from app.api import router as journey_router
 
-app = FastAPI()
+app = FastAPI(title="Metro Journey Planner")
 
+app.include_router(journey_router, prefix="/api")
 
 @app.get("/journey")
 def get_journey(

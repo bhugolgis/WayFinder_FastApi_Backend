@@ -1,0 +1,4738 @@
+[
+	{
+		"id": 749,
+		"Locality_Name": "World Trade Center",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91467177",
+		"Longitude": "72.8179129",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 750,
+		"Locality_Name": "Maker Towers",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91740599",
+		"Longitude": "72.81678683",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 751,
+		"Locality_Name": "Colaba Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91972365",
+		"Longitude": "72.82981662",
+		"Distance_From_Nearest_Gate": "1300",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 752,
+		"Locality_Name": "Hotel President, Mumbai",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Hotels",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91424266",
+		"Longitude": "72.82103223",
+		"Distance_From_Nearest_Gate": "50",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 753,
+		"Locality_Name": "Railway Colony",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Residential",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91868916",
+		"Longitude": "72.82719785",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 754,
+		"Locality_Name": "Colaba Post Office Bus Stop",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91095508",
+		"Longitude": "72.82057938",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 755,
+		"Locality_Name": "Backbay Bus Depot",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Depot",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91004716",
+		"Longitude": "72.81660038",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 756,
+		"Locality_Name": "Dhobi Ghat / Dr. Ambedkar Nagar",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9111994",
+		"Longitude": "72.81902055",
+		"Distance_From_Nearest_Gate": "260",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 757,
+		"Locality_Name": "Cuffe Parade Police Station",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91189839",
+		"Longitude": "72.81816157",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 758,
+		"Locality_Name": "Colaba Bus Station",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91394845",
+		"Longitude": "72.8226423",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 759,
+		"Locality_Name": "President Hotel",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91488724",
+		"Longitude": "72.82204642",
+		"Distance_From_Nearest_Gate": "280",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 760,
+		"Locality_Name": "Colaba Post Office Bus Stop",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.91095508",
+		"Longitude": "72.82057938",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Cuffe Parade"
+		}
+	},
+	{
+		"id": 761,
+		"Locality_Name": "Mantralaya",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92703629",
+		"Longitude": "72.82681134",
+		"Distance_From_Nearest_Gate": "170",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 762,
+		"Locality_Name": "New Administration Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92671512",
+		"Longitude": "72.8265719",
+		"Distance_From_Nearest_Gate": "150",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 763,
+		"Locality_Name": "Vidhan Bhavan Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92618519",
+		"Longitude": "72.82493214",
+		"Distance_From_Nearest_Gate": "50",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 764,
+		"Locality_Name": "Manora MLA Hostel",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Hotels",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92322648",
+		"Longitude": "72.82508136",
+		"Distance_From_Nearest_Gate": "50",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 765,
+		"Locality_Name": "State Bank Of India",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92622094",
+		"Longitude": "72.82603336",
+		"Distance_From_Nearest_Gate": "50",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 766,
+		"Locality_Name": "Shipping Corporation",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92622094",
+		"Longitude": "72.82603336",
+		"Distance_From_Nearest_Gate": "50",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 767,
+		"Locality_Name": "The Institute of Science",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9260736",
+		"Longitude": "72.83024507",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 768,
+		"Locality_Name": "Mittal Towers",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92525612",
+		"Longitude": "72.82495741",
+		"Distance_From_Nearest_Gate": "10",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 769,
+		"Locality_Name": "Maker Chambers",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92498403",
+		"Longitude": "72.82274104",
+		"Distance_From_Nearest_Gate": "240",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 770,
+		"Locality_Name": "NCPA (National Centre for Performing Arts)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92486818",
+		"Longitude": "72.82017833",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 771,
+		"Locality_Name": "Yashwantrao Chavan Centre",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92493752",
+		"Longitude": "72.82652517",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 772,
+		"Locality_Name": "Sachivalay Gymkhana",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92619766",
+		"Longitude": "72.82672902",
+		"Distance_From_Nearest_Gate": "140",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 773,
+		"Locality_Name": "National Gallery of Modern Art",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92591333",
+		"Longitude": "72.83137008",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 774,
+		"Locality_Name": "Cooperage Bandstand Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92593842",
+		"Longitude": "72.82826918",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 775,
+		"Locality_Name": "Cooperage Football Ground",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92442457",
+		"Longitude": "72.82867978",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 776,
+		"Locality_Name": "Nariman Point (Sunset Point)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92574324",
+		"Longitude": "72.81859742",
+		"Distance_From_Nearest_Gate": "900",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 777,
+		"Locality_Name": "Marine Drive, Madame Cama Road Junction",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92975718",
+		"Longitude": "72.82160279",
+		"Distance_From_Nearest_Gate": "900",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 778,
+		"Locality_Name": "Chhatrapati Shivaji Maharaj Vastu Sangrahalaya",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92633136",
+		"Longitude": "72.83159441",
+		"Distance_From_Nearest_Gate": "900",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 779,
+		"Locality_Name": "BMC Pay & Park",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Parking",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92475797",
+		"Longitude": "72.82183102",
+		"Distance_From_Nearest_Gate": "320",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 780,
+		"Locality_Name": "Shipping Corp Of India, Cityflo Stop",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92562893",
+		"Longitude": "72.82587347",
+		"Distance_From_Nearest_Gate": "150",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 781,
+		"Locality_Name": "N.C.P.A.",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92516078",
+		"Longitude": "72.82261294",
+		"Distance_From_Nearest_Gate": "240",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 782,
+		"Locality_Name": "Free Press Journal",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92296662",
+		"Longitude": "72.82342406",
+		"Distance_From_Nearest_Gate": "290",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 783,
+		"Locality_Name": "Indusind Bank, Cityflo Stop",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92498435",
+		"Longitude": "72.82191755",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 784,
+		"Locality_Name": "Bajaj Bhawan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92650807",
+		"Longitude": "72.82241363",
+		"Distance_From_Nearest_Gate": "280",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 785,
+		"Locality_Name": "Cr 2 Mall, Cityflo Stop",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92619861",
+		"Longitude": "72.82270078",
+		"Distance_From_Nearest_Gate": "230",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 786,
+		"Locality_Name": "Free Press Marg",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92435594",
+		"Longitude": "72.82491331",
+		"Distance_From_Nearest_Gate": "29",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 787,
+		"Locality_Name": "Yashwantrao Chavan Pratishthan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92560572",
+		"Longitude": "72.82596976",
+		"Distance_From_Nearest_Gate": "160",
+		"Station": {
+			"Station_Commercial_Name": "SBI-Vidhan Bhavan"
+		}
+	},
+	{
+		"id": 788,
+		"Locality_Name": "Yogakshema Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92958562",
+		"Longitude": "72.82395578",
+		"Distance_From_Nearest_Gate": "190",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 789,
+		"Locality_Name": "Public Works Department",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93214035",
+		"Longitude": "72.83068794",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 790,
+		"Locality_Name": "High Court of Mumbai",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9313918",
+		"Longitude": "72.83007396",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 791,
+		"Locality_Name": "Mantralaya",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92703629",
+		"Longitude": "72.82681134",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 792,
+		"Locality_Name": "HR College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92997853",
+		"Longitude": "72.82662628",
+		"Distance_From_Nearest_Gate": "65",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 793,
+		"Locality_Name": "KC College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92977569",
+		"Longitude": "72.82715898",
+		"Distance_From_Nearest_Gate": "110",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 794,
+		"Locality_Name": "Jai Hind College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93450481",
+		"Longitude": "72.82522461",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 795,
+		"Locality_Name": "Sydenham College of Commerce & Economics",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93525061",
+		"Longitude": "72.82592291",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 796,
+		"Locality_Name": "Government Law College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93425507",
+		"Longitude": "72.8269203",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 797,
+		"Locality_Name": "Jamnalal Bajaj Institute",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92848532",
+		"Longitude": "72.82741898",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 798,
+		"Locality_Name": "University of Mumbai",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92935012",
+		"Longitude": "72.82976591",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 799,
+		"Locality_Name": "HPCL building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92888819",
+		"Longitude": "72.82518639",
+		"Distance_From_Nearest_Gate": "80",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 800,
+		"Locality_Name": "Oval Maidan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92967729",
+		"Longitude": "72.82828126",
+		"Distance_From_Nearest_Gate": "260",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 801,
+		"Locality_Name": "Jawaharlal Nehru Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92862214",
+		"Longitude": "72.82402457",
+		"Distance_From_Nearest_Gate": "160",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 802,
+		"Locality_Name": "Mahatma Gandhi Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92802165",
+		"Longitude": "72.82475442",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 803,
+		"Locality_Name": "Cross Maidan Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93332808",
+		"Longitude": "72.82879329",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 804,
+		"Locality_Name": "Kasturi Building (The Hindu Newspaper Office)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Residential",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92974632",
+		"Longitude": "72.8251161",
+		"Distance_From_Nearest_Gate": "20",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 805,
+		"Locality_Name": "Cricket Club of India (CCI)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93147006",
+		"Longitude": "72.82451489",
+		"Distance_From_Nearest_Gate": "190",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 806,
+		"Locality_Name": "CCI-Brabourne Stadium",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93326537",
+		"Longitude": "72.82491144",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 807,
+		"Locality_Name": "Wankhede Stadium (D-Road Entry)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93688265",
+		"Longitude": "72.8256738",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 808,
+		"Locality_Name": "Mumbai Hockey Association Ground (D-Road Entry)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93688265",
+		"Longitude": "72.8256738",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 809,
+		"Locality_Name": "Mumbai University Grounds (NSCB road entry)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94053835",
+		"Longitude": "72.8252828",
+		"Distance_From_Nearest_Gate": "1400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 810,
+		"Locality_Name": "Marine Drive View Point (Near Air India)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92977155",
+		"Longitude": "72.82160349",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 811,
+		"Locality_Name": "Western Railway Headquarters",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93366937",
+		"Longitude": "72.82839458",
+		"Distance_From_Nearest_Gate": "240",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 812,
+		"Locality_Name": "Churchgate Suburban Station (Western)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93353224",
+		"Longitude": "72.82775642",
+		"Distance_From_Nearest_Gate": "200",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 813,
+		"Locality_Name": "Petroleum House",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9291159",
+		"Longitude": "72.82505841",
+		"Distance_From_Nearest_Gate": "0",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 814,
+		"Locality_Name": "Ahilyabai Holkar Chowk / Churchgate",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93211785",
+		"Longitude": "72.8275992",
+		"Distance_From_Nearest_Gate": "67",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 815,
+		"Locality_Name": "Churchgate Suburban Station",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93353224",
+		"Longitude": "72.82775642",
+		"Distance_From_Nearest_Gate": "200",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Churchgate Metro"
+		}
+	},
+	{
+		"id": 816,
+		"Locality_Name": "Oriental Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92491199",
+		"Longitude": "72.83180309",
+		"Distance_From_Nearest_Gate": "1000",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 817,
+		"Locality_Name": "Sambava Chambers",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93430355",
+		"Longitude": "72.83423589",
+		"Distance_From_Nearest_Gate": "140",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 818,
+		"Locality_Name": "Reserve Bank Of India",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93318572",
+		"Longitude": "72.8364577",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 819,
+		"Locality_Name": "Government of Maharashtra bandhkam bhavan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93723412",
+		"Longitude": "72.83266516",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 820,
+		"Locality_Name": "Central Bank of India",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93147187",
+		"Longitude": "72.83216704",
+		"Distance_From_Nearest_Gate": "240",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 821,
+		"Locality_Name": "STATE CET CELL",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9377269",
+		"Longitude": "72.83308593",
+		"Distance_From_Nearest_Gate": "280",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 822,
+		"Locality_Name": "Public Works Department (PWD)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.938345",
+		"Longitude": "72.83297288",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 823,
+		"Locality_Name": "Maharashtra Public Service Commission (MPSC)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93092547",
+		"Longitude": "72.83104057",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 824,
+		"Locality_Name": "CE Office Jalsampada",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9316806",
+		"Longitude": "72.83090293",
+		"Distance_From_Nearest_Gate": "270",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 825,
+		"Locality_Name": "Special Court(TORTS)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93115215",
+		"Longitude": "72.83007957",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 826,
+		"Locality_Name": "Hospital High Court",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93071938",
+		"Longitude": "72.83056645",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 827,
+		"Locality_Name": "High Court Pitch",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93156606",
+		"Longitude": "72.82893534",
+		"Distance_From_Nearest_Gate": "950",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 828,
+		"Locality_Name": "Directorate of Revenue Intelligence",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93786482",
+		"Longitude": "72.82874231",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 829,
+		"Locality_Name": "INS Angre",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93175205",
+		"Longitude": "72.83729198",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 830,
+		"Locality_Name": "Maharashtra State Womens Council",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93138195",
+		"Longitude": "72.83573984",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 831,
+		"Locality_Name": "Town Hall Post Office",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93107583",
+		"Longitude": "72.83571367",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 832,
+		"Locality_Name": "Office of District Collector",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93051121",
+		"Longitude": "72.83587027",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 833,
+		"Locality_Name": "Western Railway Headquarters",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93366937",
+		"Longitude": "72.82839458",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 834,
+		"Locality_Name": "Maharashtra State Legal Services Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93231729",
+		"Longitude": "72.83023955",
+		"Distance_From_Nearest_Gate": "200",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 835,
+		"Locality_Name": "The Bombay High Court",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93164518",
+		"Longitude": "72.83000737",
+		"Distance_From_Nearest_Gate": "390",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 836,
+		"Locality_Name": "Central Telegraph Office",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93287244",
+		"Longitude": "72.83046046",
+		"Distance_From_Nearest_Gate": "155",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 837,
+		"Locality_Name": "Lions Club of Bombay Host - Health Center",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93790474",
+		"Longitude": "72.83350813",
+		"Distance_From_Nearest_Gate": "270",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 838,
+		"Locality_Name": "Horniman Circle",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Heritage",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93203654",
+		"Longitude": "72.83471905",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 839,
+		"Locality_Name": "Taj Palace Hotel",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Hotels",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92220049",
+		"Longitude": "72.83301176",
+		"Distance_From_Nearest_Gate": "1500",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 840,
+		"Locality_Name": "Anglo Scottish Educational Society",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93602626",
+		"Longitude": "72.83254987",
+		"Distance_From_Nearest_Gate": "190",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 841,
+		"Locality_Name": "Sir J J Fort Boys High School",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93688493",
+		"Longitude": "72.8342857",
+		"Distance_From_Nearest_Gate": "100",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 842,
+		"Locality_Name": "University of Mumbai",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92944726",
+		"Longitude": "72.83094136",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 843,
+		"Locality_Name": "K. R. Cama Oriental Institute",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9272332",
+		"Longitude": "72.83367985",
+		"Distance_From_Nearest_Gate": "900",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 844,
+		"Locality_Name": "Elphinstone College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92718133",
+		"Longitude": "72.83104575",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 845,
+		"Locality_Name": "Sydenham College of Commerce & Economics",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93528822",
+		"Longitude": "72.82592494",
+		"Distance_From_Nearest_Gate": "850",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 846,
+		"Locality_Name": "State Central Library",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93183527",
+		"Longitude": "72.83598201",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 847,
+		"Locality_Name": "Siddharth College Of Law",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93411168",
+		"Longitude": "72.83229347",
+		"Distance_From_Nearest_Gate": "60",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 848,
+		"Locality_Name": "TCS house",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93794113",
+		"Longitude": "72.83225893",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 849,
+		"Locality_Name": "Bombay Stock Exchange (Bse)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93003418",
+		"Longitude": "72.83341903",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 850,
+		"Locality_Name": "HSBC",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93119152",
+		"Longitude": "72.83124843",
+		"Distance_From_Nearest_Gate": "140",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 851,
+		"Locality_Name": "Standard Chartered Bank",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93361572",
+		"Longitude": "72.8313877",
+		"Distance_From_Nearest_Gate": "120",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 852,
+		"Locality_Name": "Tata Garden / Cross Maidan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93436369",
+		"Longitude": "72.82917752",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 853,
+		"Locality_Name": "BMC Bhatia Udyan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93864834",
+		"Longitude": "72.83533154",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 854,
+		"Locality_Name": "Cross Maidan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93334784",
+		"Longitude": "72.82922446",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 855,
+		"Locality_Name": "St. Thomas Cathedral",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93216143",
+		"Longitude": "72.83368685",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 856,
+		"Locality_Name": "Bombay Gymkhana Squash Court",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9359436",
+		"Longitude": "72.83201326",
+		"Distance_From_Nearest_Gate": "290",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 857,
+		"Locality_Name": "Oval Maidan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9297005",
+		"Longitude": "72.82887774",
+		"Distance_From_Nearest_Gate": "560",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 858,
+		"Locality_Name": "Azad Maidan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93854918",
+		"Longitude": "72.83231847",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 859,
+		"Locality_Name": "Rbi Monetary Museum",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93385378",
+		"Longitude": "72.83607481",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 860,
+		"Locality_Name": "BSE bull statue",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93190424",
+		"Longitude": "72.83413217",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 861,
+		"Locality_Name": "Gate Way of India",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92198215",
+		"Longitude": "72.83466182",
+		"Distance_From_Nearest_Gate": "1500",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 862,
+		"Locality_Name": "Jehangir Art Gallery",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92740928",
+		"Longitude": "72.83163066",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 863,
+		"Locality_Name": "Marine Drive View Point",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93181686",
+		"Longitude": "72.82276511",
+		"Distance_From_Nearest_Gate": "1500",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 864,
+		"Locality_Name": "Flora Fountain",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93247732",
+		"Longitude": "72.83147826",
+		"Distance_From_Nearest_Gate": "100",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 865,
+		"Locality_Name": "Churchgate Suburban Railway Station (Western)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93528184",
+		"Longitude": "72.8271838",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 866,
+		"Locality_Name": "Sidharth College / Hutatma Chowk",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93314596",
+		"Longitude": "72.83187324",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 867,
+		"Locality_Name": "Khadi Bhandar, Cityflo Stop",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93644861",
+		"Longitude": "72.83387256",
+		"Distance_From_Nearest_Gate": "48",
+		"Station": {
+			"Station_Commercial_Name": "LIC-Hutatma Chowk"
+		}
+	},
+	{
+		"id": 868,
+		"Locality_Name": "Handlooms House",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94762055",
+		"Longitude": "72.83266114",
+		"Distance_From_Nearest_Gate": "950",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 869,
+		"Locality_Name": "Mangaldas Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94865473",
+		"Longitude": "72.83217367",
+		"Distance_From_Nearest_Gate": "1100",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 870,
+		"Locality_Name": "Alexandra Dock",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93353",
+		"Longitude": "72.84225845",
+		"Distance_From_Nearest_Gate": "1300",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 871,
+		"Locality_Name": "Manish Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94666409",
+		"Longitude": "72.83591337",
+		"Distance_From_Nearest_Gate": "1000",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 872,
+		"Locality_Name": "Crawford Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9476321",
+		"Longitude": "72.83422934",
+		"Distance_From_Nearest_Gate": "1000",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 873,
+		"Locality_Name": "Indira Dock",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94160825",
+		"Longitude": "72.84089009",
+		"Distance_From_Nearest_Gate": "1100",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 874,
+		"Locality_Name": "Brand Capital",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94155295",
+		"Longitude": "72.83428377",
+		"Distance_From_Nearest_Gate": "170",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 875,
+		"Locality_Name": "BMC Headquarter",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94043017",
+		"Longitude": "72.83456761",
+		"Distance_From_Nearest_Gate": "120",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 876,
+		"Locality_Name": "Metropolitan Court",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94159967",
+		"Longitude": "72.83298994",
+		"Distance_From_Nearest_Gate": "160",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 877,
+		"Locality_Name": "Azad Maidan Police Station",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94160132",
+		"Longitude": "72.833152",
+		"Distance_From_Nearest_Gate": "230",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 878,
+		"Locality_Name": "EOW offfice",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9462006",
+		"Longitude": "72.83271522",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 879,
+		"Locality_Name": "Small Causes Court",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94470936",
+		"Longitude": "72.82994203",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 880,
+		"Locality_Name": "Mtnl Fountain Teleohone Exchange",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93405479",
+		"Longitude": "72.83063429",
+		"Distance_From_Nearest_Gate": "850",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 881,
+		"Locality_Name": "Chief Metropolitan Magistrate Court",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94160914",
+		"Longitude": "72.83278473",
+		"Distance_From_Nearest_Gate": "120",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 882,
+		"Locality_Name": "Directorate of art, maharashtra",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94294377",
+		"Longitude": "72.83346171",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 883,
+		"Locality_Name": "Police Head Office",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.945749",
+		"Longitude": "72.83259087",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 884,
+		"Locality_Name": "Office of the JT CP (Crime)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94579211",
+		"Longitude": "72.83326501",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 885,
+		"Locality_Name": "Office of the commissioner of Police",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94609531",
+		"Longitude": "72.83362421",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 886,
+		"Locality_Name": "SB Office",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94439696",
+		"Longitude": "72.8329215",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 887,
+		"Locality_Name": "Foreigners Registration Office (FRRO)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94452254",
+		"Longitude": "72.83286094",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 888,
+		"Locality_Name": "Directorate of Technical Education",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94383312",
+		"Longitude": "72.83052074",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 889,
+		"Locality_Name": "India Government Mint",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93368916",
+		"Longitude": "72.8370738",
+		"Distance_From_Nearest_Gate": "950",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 890,
+		"Locality_Name": "Docks Embarkation Hq",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94449096",
+		"Longitude": "72.83973188",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 891,
+		"Locality_Name": "Arogya Bhavan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94337596",
+		"Longitude": "72.83827483",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 892,
+		"Locality_Name": "Central Railway Admin Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93993458",
+		"Longitude": "72.83550481",
+		"Distance_From_Nearest_Gate": "130",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 893,
+		"Locality_Name": "General Post Office",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94120888",
+		"Longitude": "72.8372117",
+		"Distance_From_Nearest_Gate": "610",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 894,
+		"Locality_Name": "The Cama & Albless Hospital",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94210288",
+		"Longitude": "72.83223269",
+		"Distance_From_Nearest_Gate": "40",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 895,
+		"Locality_Name": "Gokuldas Tejpal Hospital",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94496743",
+		"Longitude": "72.83195303",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 896,
+		"Locality_Name": "Saint George Hospital",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94067138",
+		"Longitude": "72.83791788",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 897,
+		"Locality_Name": "St.  Xavier's College",
+		"Nearest_Gates": "NEAREST GATES: NO NEAREST GATES AVAILABLE",
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94266959",
+		"Longitude": "72.83152693",
+		"Distance_From_Nearest_Gate": "75",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 898,
+		"Locality_Name": "Directorate of Technical Education/Elphinstone Technical Institute",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93524946",
+		"Longitude": "72.83682761",
+		"Distance_From_Nearest_Gate": "720",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 899,
+		"Locality_Name": "Government institute of printing technology",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94364604",
+		"Longitude": "72.83421313",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 900,
+		"Locality_Name": "Sydenham College of Commerce & Economics",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93536236",
+		"Longitude": "72.82596377",
+		"Distance_From_Nearest_Gate": "1800",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 901,
+		"Locality_Name": "Government Dental College & Hospital Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93971922",
+		"Longitude": "72.83779204",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 902,
+		"Locality_Name": "Anjuman Islam School",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94282086",
+		"Longitude": "72.8339903",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 903,
+		"Locality_Name": "Sir JJ College of Arts & Architecture",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94514858",
+		"Longitude": "72.83345106",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 904,
+		"Locality_Name": "Times of India Building",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94136587",
+		"Longitude": "72.83410024",
+		"Distance_From_Nearest_Gate": "80",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 905,
+		"Locality_Name": "Sambava Chambers",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93436382",
+		"Longitude": "72.83420586",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 906,
+		"Locality_Name": "Britannia & Company",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93453536",
+		"Longitude": "72.84029145",
+		"Distance_From_Nearest_Gate": "1100",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 907,
+		"Locality_Name": "Bmc Walter D,Souza Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94252531",
+		"Longitude": "72.82742709",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 908,
+		"Locality_Name": "Tata Garden / Cross Maidan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93437667",
+		"Longitude": "72.82917162",
+		"Distance_From_Nearest_Gate": "950",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 909,
+		"Locality_Name": "Rbi Monetary Museum",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93384808",
+		"Longitude": "72.83604953",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 910,
+		"Locality_Name": "The Press Club",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9408637",
+		"Longitude": "72.83243288",
+		"Distance_From_Nearest_Gate": "100",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 911,
+		"Locality_Name": "Wankhede Stadium (D-Road Entry)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93828388",
+		"Longitude": "72.82670786",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 912,
+		"Locality_Name": "Bombay Gymkhana",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93727679",
+		"Longitude": "72.83084888",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 913,
+		"Locality_Name": "Churchgate Suburban Station",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93677957",
+		"Longitude": "72.82720588",
+		"Distance_From_Nearest_Gate": "1000",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 914,
+		"Locality_Name": "CSMT Heritage",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Long Distance Railway Station (Central)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94522567",
+		"Longitude": "72.83938226",
+		"Distance_From_Nearest_Gate": "1300",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 915,
+		"Locality_Name": "CSMT Terminus",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Long Distance Railway Station (Central)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94246004",
+		"Longitude": "72.83676668",
+		"Distance_From_Nearest_Gate": "40",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 916,
+		"Locality_Name": "CSMT Suburban Railway Station (Central & Harbor)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Central)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93986042",
+		"Longitude": "72.83538542",
+		"Distance_From_Nearest_Gate": "40",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 917,
+		"Locality_Name": "Csmt (terminal)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93986042",
+		"Longitude": "72.83538542",
+		"Distance_From_Nearest_Gate": "40",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 918,
+		"Locality_Name": "Mahapalika Marg, Dhobi Talao",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94271545",
+		"Longitude": "72.83036605",
+		"Distance_From_Nearest_Gate": "150",
+		"Station": {
+			"Station_Commercial_Name": "KOTAK-Chhatrapati Shivaji Maharaj Terminus Metro"
+		}
+	},
+	{
+		"id": 919,
+		"Locality_Name": "Jer Mahal",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94389659",
+		"Longitude": "72.82912071",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 920,
+		"Locality_Name": "Swadeshi Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94951523",
+		"Longitude": "72.82887001",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 921,
+		"Locality_Name": "Mulji Jetha Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94894412",
+		"Longitude": "72.83017412",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 922,
+		"Locality_Name": "Manish Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94671157",
+		"Longitude": "72.83534426",
+		"Distance_From_Nearest_Gate": "1300",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 923,
+		"Locality_Name": "Mumbai Market",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94622399",
+		"Longitude": "72.82905401",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 924,
+		"Locality_Name": "Javeri Bazaar",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94995532",
+		"Longitude": "72.83037365",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 925,
+		"Locality_Name": "Directorate of Technical Education",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94397507",
+		"Longitude": "72.83034961",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 926,
+		"Locality_Name": "Rang Bhavan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94347824",
+		"Longitude": "72.83136626",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 927,
+		"Locality_Name": "Court of Small Cases",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94457522",
+		"Longitude": "72.8299517",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 928,
+		"Locality_Name": "Election Commission Nodal Office",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9431691",
+		"Longitude": "72.82997731",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 929,
+		"Locality_Name": "Maharashtra State Skills University (Mssu)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94388623",
+		"Longitude": "72.83011323",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 930,
+		"Locality_Name": "St. Xavier's High School",
+		"Nearest_Gates": "NEAREST GATES: NO NEAREST GATES AVAILABLE",
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94399379",
+		"Longitude": "72.83035895",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 931,
+		"Locality_Name": "St. Xavier'S College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94230806",
+		"Longitude": "72.83127653",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 932,
+		"Locality_Name": "Chandanwadi Crematorium",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Other",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94556362",
+		"Longitude": "72.82509974",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 933,
+		"Locality_Name": "Bada Khabristan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Other",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94800523",
+		"Longitude": "72.82254797",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 934,
+		"Locality_Name": "Edward Cinema",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94513867",
+		"Longitude": "72.82913829",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 935,
+		"Locality_Name": "S.K Patil Gardens",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94990915",
+		"Longitude": "72.82172172",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 936,
+		"Locality_Name": "Walter D�Souza Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94345597",
+		"Longitude": "72.82772892",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 937,
+		"Locality_Name": "Cowasji Jehangir Hall",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.92561963",
+		"Longitude": "72.8314675",
+		"Distance_From_Nearest_Gate": "2500",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 938,
+		"Locality_Name": "Metro Big Cinema",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94307747",
+		"Longitude": "72.82917236",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 939,
+		"Locality_Name": "BMC Walter D�souza Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94268802",
+		"Longitude": "72.82739647",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 940,
+		"Locality_Name": "Marine Drive Beach",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94360051",
+		"Longitude": "72.82286999",
+		"Distance_From_Nearest_Gate": "1300",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 941,
+		"Locality_Name": "S.K. Patil Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94991518",
+		"Longitude": "72.82173835",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 942,
+		"Locality_Name": "Wadiaji Atash Behram (Parsi Agiary)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94572505",
+		"Longitude": "72.8272972",
+		"Distance_From_Nearest_Gate": "100",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 943,
+		"Locality_Name": "Anjuman Atash Behram(Parsi Agiary)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94534294",
+		"Longitude": "72.82769959",
+		"Distance_From_Nearest_Gate": "140",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 944,
+		"Locality_Name": "Kalbadevi Temple",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94852568",
+		"Longitude": "72.82895402",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 945,
+		"Locality_Name": "Bhatia Mahajan Wadi",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94805528",
+		"Longitude": "72.82874827",
+		"Distance_From_Nearest_Gate": "270",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 946,
+		"Locality_Name": "Dadiseth Ateshbehram",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95030726",
+		"Longitude": "72.82680226",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 947,
+		"Locality_Name": "St. Francis Xavier's Catholic Church",
+		"Nearest_Gates": "NEAREST GATES: NO NEAREST GATES AVAILABLE",
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94922147",
+		"Longitude": "72.82332256",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 948,
+		"Locality_Name": "Kyani & Co. Legendary Irani Restaurant, Bakers",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Restaurants",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94405941",
+		"Longitude": "72.82869457",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 949,
+		"Locality_Name": "Mumbai Police Gymkhana",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94880625",
+		"Longitude": "72.8201212",
+		"Distance_From_Nearest_Gate": "1100",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 950,
+		"Locality_Name": "Wilson Gymkhana",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94728671",
+		"Longitude": "72.82124388",
+		"Distance_From_Nearest_Gate": "850",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 951,
+		"Locality_Name": "Hindu Gymkhana",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94684599",
+		"Longitude": "72.82156259",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 952,
+		"Locality_Name": "Muslim Gymkhana",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94561527",
+		"Longitude": "72.8235398",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 953,
+		"Locality_Name": "Parsi Gymkhana",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94381166",
+		"Longitude": "72.82344234",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 954,
+		"Locality_Name": "Wankhede Stadium",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.93843683",
+		"Longitude": "72.8266787",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 955,
+		"Locality_Name": "Girgaon Chowpatty Beach",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9553357",
+		"Longitude": "72.81358995",
+		"Distance_From_Nearest_Gate": "2000",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 956,
+		"Locality_Name": "Lokmanya Bal Gangadhar Tilak Uddyan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95498535",
+		"Longitude": "72.81367962",
+		"Distance_From_Nearest_Gate": "2000",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 957,
+		"Locality_Name": "Marine Lines Suburban Railway Station (Western)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94633634",
+		"Longitude": "72.82363076",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 958,
+		"Locality_Name": "Charni Road Suburban Railway Station (Western)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9519086",
+		"Longitude": "72.81850025",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 959,
+		"Locality_Name": "Chandan Wadi / Princess Street",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94656287",
+		"Longitude": "72.82710377",
+		"Distance_From_Nearest_Gate": "13",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 960,
+		"Locality_Name": "Kalba Devi",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94721087",
+		"Longitude": "72.82871803",
+		"Distance_From_Nearest_Gate": "300",
+		"Station": {
+			"Station_Commercial_Name": "Kalbadevi"
+		}
+	},
+	{
+		"id": 961,
+		"Locality_Name": "Saifee Hospital",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95242593",
+		"Longitude": "72.81811901",
+		"Distance_From_Nearest_Gate": "600",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 962,
+		"Locality_Name": "Mackichan Hall",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Heritage",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95669339",
+		"Longitude": "72.81014621",
+		"Distance_From_Nearest_Gate": "1500",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 963,
+		"Locality_Name": "Wilson College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95615826",
+		"Longitude": "72.81081919",
+		"Distance_From_Nearest_Gate": "1400",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 964,
+		"Locality_Name": "Bharati Vidya Bhavan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95734783",
+		"Longitude": "72.8105783",
+		"Distance_From_Nearest_Gate": "1500",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 965,
+		"Locality_Name": "The Royal Opera House",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95592952",
+		"Longitude": "72.81566264",
+		"Distance_From_Nearest_Gate": "900",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 966,
+		"Locality_Name": "S.K. Patil Garden",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94990092",
+		"Longitude": "72.82173541",
+		"Distance_From_Nearest_Gate": "250",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 967,
+		"Locality_Name": "Sri Venkateswara Balaji Mandir (Fanaswadi)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95188597",
+		"Longitude": "72.82560065",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 968,
+		"Locality_Name": "Parsi Agiary",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95043954",
+		"Longitude": "72.82692025",
+		"Distance_From_Nearest_Gate": "550",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 969,
+		"Locality_Name": "Kalaram Mandir",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95151459",
+		"Longitude": "72.82303167",
+		"Distance_From_Nearest_Gate": "51",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 970,
+		"Locality_Name": "Taraporevala Aquarium",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.94919427",
+		"Longitude": "72.81981873",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 971,
+		"Locality_Name": "Charni Road Suburban Railway Station (Western)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95191403",
+		"Longitude": "72.81849512",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 972,
+		"Locality_Name": "Charni road train station",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95191403",
+		"Longitude": "72.81849512",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 973,
+		"Locality_Name": "Thakurdwar",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95210442",
+		"Longitude": "72.82333835",
+		"Distance_From_Nearest_Gate": "150",
+		"Station": {
+			"Station_Commercial_Name": "Girgaon"
+		}
+	},
+	{
+		"id": 974,
+		"Locality_Name": "Nana Chowk",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9615719",
+		"Longitude": "72.81318737",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 975,
+		"Locality_Name": "Sir H. N. Reliance Foundation  Hospital And Research Centre",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95885119",
+		"Longitude": "72.81978639",
+		"Distance_From_Nearest_Gate": "750",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 976,
+		"Locality_Name": "Mackichan Hall",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Heritage",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95669299",
+		"Longitude": "72.81013964",
+		"Distance_From_Nearest_Gate": "1400",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 977,
+		"Locality_Name": "Wilson College",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9562744",
+		"Longitude": "72.81088215",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 978,
+		"Locality_Name": "Nana Nani Park",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95575827",
+		"Longitude": "72.8098123",
+		"Distance_From_Nearest_Gate": "1500",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 979,
+		"Locality_Name": "Bharati Vidya Bhavan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95732651",
+		"Longitude": "72.81052816",
+		"Distance_From_Nearest_Gate": "1300",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 980,
+		"Locality_Name": "Kamla Nehru Park",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9549539",
+		"Longitude": "72.80518401",
+		"Distance_From_Nearest_Gate": "2300",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 981,
+		"Locality_Name": "Royal Opera House",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95598002",
+		"Longitude": "72.81589854",
+		"Distance_From_Nearest_Gate": "950",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 982,
+		"Locality_Name": "Mahanagar Pallika Park",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96482593",
+		"Longitude": "72.82002425",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 983,
+		"Locality_Name": "Hanging Gardens",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95702477",
+		"Longitude": "72.80590204",
+		"Distance_From_Nearest_Gate": "2200",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 984,
+		"Locality_Name": "Babulnath Temple",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95734026",
+		"Longitude": "72.80849022",
+		"Distance_From_Nearest_Gate": "1700",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 985,
+		"Locality_Name": "Iskon Temple",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95762995",
+		"Longitude": "72.8098081",
+		"Distance_From_Nearest_Gate": "1400",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 986,
+		"Locality_Name": "Mahella Patel Agiary",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96271955",
+		"Longitude": "72.81911539",
+		"Distance_From_Nearest_Gate": "400",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 987,
+		"Locality_Name": "August Kranti Maidan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96279769",
+		"Longitude": "72.81034034",
+		"Distance_From_Nearest_Gate": null,
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 988,
+		"Locality_Name": "Mani Bhavan",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.95978049",
+		"Longitude": "72.81147505",
+		"Distance_From_Nearest_Gate": "1000",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 989,
+		"Locality_Name": "Grant Road Suburban Railway Station (Western)",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96318141",
+		"Longitude": "72.81639888",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 990,
+		"Locality_Name": "Jio-Bp Pulse Charging Station",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "EV Charging Station",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96459483",
+		"Longitude": "72.82129091",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 991,
+		"Locality_Name": "Minerva Cinema",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96389242",
+		"Longitude": "72.81852145",
+		"Distance_From_Nearest_Gate": "100",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 992,
+		"Locality_Name": "Dr .Bhadkamkar Road Junction / Novelty",
+		"Nearest_Gates": null,
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96198632",
+		"Longitude": "72.81874087",
+		"Distance_From_Nearest_Gate": "73",
+		"Station": {
+			"Station_Commercial_Name": "Grant Road Metro"
+		}
+	},
+	{
+		"id": 993,
+		"Locality_Name": "Reserve Bank of India",
+		"Nearest_Gates": "E3",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97015767",
+		"Longitude": "72.82149996",
+		"Distance_From_Nearest_Gate": "86",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 994,
+		"Locality_Name": "Tardeo RTO",
+		"Nearest_Gates": "E4",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97331658",
+		"Longitude": "72.81668013",
+		"Distance_From_Nearest_Gate": "1500",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 995,
+		"Locality_Name": "Consulate General Of Indonesia",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96559864",
+		"Longitude": "72.80935119",
+		"Distance_From_Nearest_Gate": "2200",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 996,
+		"Locality_Name": "Consulate General Of Italy",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96430926",
+		"Longitude": "72.80741968",
+		"Distance_From_Nearest_Gate": "2000",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 997,
+		"Locality_Name": "Central Drugs Standard Control",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96678844",
+		"Longitude": "72.82299036",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 998,
+		"Locality_Name": "Consulate General Of Japan",
+		"Nearest_Gates": "E4",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97526669",
+		"Longitude": "72.81091886",
+		"Distance_From_Nearest_Gate": "2700",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 999,
+		"Locality_Name": "Jaslok Hospital",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97149781",
+		"Longitude": "72.8096042",
+		"Distance_From_Nearest_Gate": "2800",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1000,
+		"Locality_Name": "Breach Candy Hospital",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97257524",
+		"Longitude": "72.80465252",
+		"Distance_From_Nearest_Gate": "3000",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1001,
+		"Locality_Name": "B D Petit Parsee Hospital",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9688625",
+		"Longitude": "72.8057139",
+		"Distance_From_Nearest_Gate": "2700",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1002,
+		"Locality_Name": "Nair Hospital",
+		"Nearest_Gates": "E4",
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9729197",
+		"Longitude": "72.82183899",
+		"Distance_From_Nearest_Gate": "170",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1003,
+		"Locality_Name": "Wockhardt Hospital",
+		"Nearest_Gates": "E5",
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97542716",
+		"Longitude": "72.82372761",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1004,
+		"Locality_Name": "Maratha Mandir's Babasaheb Gawde Institute Of Technology",
+		"Nearest_Gates": "E5",
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97079004",
+		"Longitude": "72.82175871",
+		"Distance_From_Nearest_Gate": "19",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1005,
+		"Locality_Name": "Sophia Centre For Women'S Studies And Development",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96921791",
+		"Longitude": "72.80801921",
+		"Distance_From_Nearest_Gate": "2600",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1006,
+		"Locality_Name": "Industrial Training Institute",
+		"Nearest_Gates": "E5",
+		"Type_of_Locality": "Institutional",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97679342",
+		"Longitude": "72.82286524",
+		"Distance_From_Nearest_Gate": "1000",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1007,
+		"Locality_Name": "Maratha Mandir",
+		"Nearest_Gates": "E5",
+		"Type_of_Locality": "Recreation",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97147496",
+		"Longitude": "72.82202355",
+		"Distance_From_Nearest_Gate": "91",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1008,
+		"Locality_Name": "Shree Mahalakshmi Temple",
+		"Nearest_Gates": "E4",
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97745804",
+		"Longitude": "72.80667477",
+		"Distance_From_Nearest_Gate": "2600",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1009,
+		"Locality_Name": "Mahella Patel Agiary",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9627259",
+		"Longitude": "72.81912274",
+		"Distance_From_Nearest_Gate": "800",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1010,
+		"Locality_Name": "Imperial Towers",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Residential",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97070664",
+		"Longitude": "72.81292086",
+		"Distance_From_Nearest_Gate": "1300",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1011,
+		"Locality_Name": "Willingdon Sports Club",
+		"Nearest_Gates": "E4",
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97659503",
+		"Longitude": "72.81532778",
+		"Distance_From_Nearest_Gate": "2100",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1012,
+		"Locality_Name": "National Museum of Indian Cinema",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97049708",
+		"Longitude": "72.8088743",
+		"Distance_From_Nearest_Gate": "2700",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1013,
+		"Locality_Name": "National Museum Of Indian Cinema",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97047392",
+		"Longitude": "72.80889975",
+		"Distance_From_Nearest_Gate": "2700",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1014,
+		"Locality_Name": "Msrtc Intercity Bus Depot",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Depot",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96892479",
+		"Longitude": "72.82185325",
+		"Distance_From_Nearest_Gate": "200",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1015,
+		"Locality_Name": "BEST Bus Depot",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Depot",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96898376",
+		"Longitude": "72.82425458",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1016,
+		"Locality_Name": "Jio-Bp Pulse Charging Station",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "EV Charging Station",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.96458592",
+		"Longitude": "72.82130419",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1017,
+		"Locality_Name": "Mumbai Central Railway Station",
+		"Nearest_Gates": "E3",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Long Distance Railway Station (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9707195",
+		"Longitude": "72.81994753",
+		"Distance_From_Nearest_Gate": "120",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1018,
+		"Locality_Name": "Mumbai Central",
+		"Nearest_Gates": "E3",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97023392",
+		"Longitude": "72.82125873",
+		"Distance_From_Nearest_Gate": "45",
+		"Station": {
+			"Station_Commercial_Name": "Jagannath Shankar Sheth Metro"
+		}
+	},
+	{
+		"id": 1019,
+		"Locality_Name": "Dhobi Ghat",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98225785",
+		"Longitude": "72.82552375",
+		"Distance_From_Nearest_Gate": "350",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1020,
+		"Locality_Name": "Arthur Road Central Jail",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98473645",
+		"Longitude": "72.82992027",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1021,
+		"Locality_Name": "Kasturba Hospital",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98420634",
+		"Longitude": "72.82968503",
+		"Distance_From_Nearest_Gate": "650",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1022,
+		"Locality_Name": "All India Institute Of Physical Medicine And Rehabilitation",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Health",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97857519",
+		"Longitude": "72.81326888",
+		"Distance_From_Nearest_Gate": "3200",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1023,
+		"Locality_Name": "St. Ignatius Church",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98270967",
+		"Longitude": "72.82833927",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1024,
+		"Locality_Name": "Haji Ali Darga",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Religious",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98267213",
+		"Longitude": "72.80880698",
+		"Distance_From_Nearest_Gate": "3900",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1025,
+		"Locality_Name": "Essar House",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Residential",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.97903728",
+		"Longitude": "72.81972176",
+		"Distance_From_Nearest_Gate": "2900",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1026,
+		"Locality_Name": "National Sports Club Of India",
+		"Nearest_Gates": "E1",
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98506149",
+		"Longitude": "72.81524293",
+		"Distance_From_Nearest_Gate": "3800",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1027,
+		"Locality_Name": "Mahalakshmi Race Cource",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98419274",
+		"Longitude": "72.82003501",
+		"Distance_From_Nearest_Gate": "4000",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1028,
+		"Locality_Name": "Nehuru Science Centre",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.99181538",
+		"Longitude": "72.82072006",
+		"Distance_From_Nearest_Gate": "1600",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1029,
+		"Locality_Name": "Mahalakshmi Suburban Railway Station (Western)",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9753132",
+		"Longitude": "72.82169549",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1030,
+		"Locality_Name": "Sant Gadge Maharaj Chowk monorail",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Monorail Station",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98320955",
+		"Longitude": "72.8287494",
+		"Distance_From_Nearest_Gate": "450",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1031,
+		"Locality_Name": "Mahalakshmi Train Station",
+		"Nearest_Gates": "E6",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9753132",
+		"Longitude": "72.82169549",
+		"Distance_From_Nearest_Gate": "500",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1032,
+		"Locality_Name": "Satrasta, RTO Colony",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98068852",
+		"Longitude": "72.82644146",
+		"Distance_From_Nearest_Gate": "75",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1033,
+		"Locality_Name": "Sant Gadge Maharaj Chowk",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98109481",
+		"Longitude": "72.82729793",
+		"Distance_From_Nearest_Gate": "170",
+		"Station": {
+			"Station_Commercial_Name": "Mahalaxmi Metro"
+		}
+	},
+	{
+		"id": 1034,
+		"Locality_Name": "High Street Phoenix Mall",
+		"Nearest_Gates": "E3",
+		"Type_of_Locality": "Commercial",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.9948619",
+		"Longitude": "72.8256677",
+		"Distance_From_Nearest_Gate": "900",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1035,
+		"Locality_Name": "Love Grove Waste Water Treatment Plant",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Government Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.99216421",
+		"Longitude": "72.81542852",
+		"Distance_From_Nearest_Gate": "1200",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1036,
+		"Locality_Name": "World One The Word Towers",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "19.00203173",
+		"Longitude": "72.82658398",
+		"Distance_From_Nearest_Gate": "1900",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1037,
+		"Locality_Name": "Peninsula Corporate Park",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Private Offices",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.99877083",
+		"Longitude": "72.82572116",
+		"Distance_From_Nearest_Gate": "1400",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1038,
+		"Locality_Name": "The National Sports Club Of India",
+		"Nearest_Gates": "Lift1",
+		"Type_of_Locality": "Sports",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98607279",
+		"Longitude": "72.81456849",
+		"Distance_From_Nearest_Gate": "2400",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1039,
+		"Locality_Name": "Nehru Planetarium",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98977227",
+		"Longitude": "72.81481579",
+		"Distance_From_Nearest_Gate": "2000",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1040,
+		"Locality_Name": "Nehru Centre Art Gallery",
+		"Nearest_Gates": "E2",
+		"Type_of_Locality": "Tourist place",
+		"status": "published",
+		"Sub_Type_of_Locality": null,
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98866424",
+		"Longitude": "72.81471686",
+		"Distance_From_Nearest_Gate": "700",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1041,
+		"Locality_Name": "Lower Parel Suburban Railway Station (Western)",
+		"Nearest_Gates": "E3",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Suburban Railway (Western)",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.99680046",
+		"Longitude": "72.82980984",
+		"Distance_From_Nearest_Gate": "1400",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1042,
+		"Locality_Name": "Lower parel train station",
+		"Nearest_Gates": "E3",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.99680046",
+		"Longitude": "72.82980984",
+		"Distance_From_Nearest_Gate": "1400",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1043,
+		"Locality_Name": "Famous Studios.",
+		"Nearest_Gates": "E4",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98938108",
+		"Longitude": "72.82281958",
+		"Distance_From_Nearest_Gate": "19",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	},
+	{
+		"id": 1044,
+		"Locality_Name": "Haji Usman Seth Rakhangi Chowk",
+		"Nearest_Gates": "E5",
+		"Type_of_Locality": "Transportation",
+		"status": "published",
+		"Sub_Type_of_Locality": "Bus Stop",
+		"sort": null,
+		"Bus_Stops": null,
+		"Latitude": "18.98959654",
+		"Longitude": "72.82313004",
+		"Distance_From_Nearest_Gate": "50",
+		"Station": {
+			"Station_Commercial_Name": "Science Centre"
+		}
+	}
+]
