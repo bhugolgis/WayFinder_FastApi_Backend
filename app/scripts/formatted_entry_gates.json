@@ -1,34 +1,4 @@
-station_coords = [
-    ("Cuffe Parade", (18.912955, 72.820196)),
-    ("Vidhan Bhavan", (18.924696, 72.825616)),
-    ("Churchgate Metro", (18.930663, 72.826163)),
-    ("Hutatma Chowk", (18.934579, 72.832826)),
-    ("Chhatrapati Shivaji Maharaj Terminus Metro", (18.940664, 72.83217)),
-    ("Kalbadevi", (18.946899, 72.826943)),
-    ("Girgaon", (18.951929, 72.822606)),
-    ("Grant Road Metro", (18.962924, 72.817997)),
-    ("Jagannath Shankar Sheth Metro", (18.970603, 72.821382)),
-    ("Mahalaxmi Metro", (18.979485, 72.825295)),
-    ("Science Centre", (18.990318, 72.82177)),
-    ("Acharya Atre Chowk", (18.997126, 72.818179)),
-    ("Worli", (19.00878, 72.819401)),
-    ("Siddhivinayak", (19.015876, 72.830735)),
-    ("Dadar Metro", (19.023667, 72.8393)),
-    ("Shitala Devi Mandir", (19.038392, 72.842133)),
-    ("Dharavi", (19.046277, 72.849952)),
-    ("Bandra-Kurla Complex", (19.060216, 72.854956)),
-    ("Bandra Colony", (19.070103, 72.849266)),
-    ("Santacruz Metro", (19.078528, 72.847181)),
-    ("Chhatrapati Shivaji Maharaj International Airport-T1", (19.093926, 72.853447)),
-    ("Sahar Road", (19.102196, 72.865299)),
-    ("Chhatrapati Shivaji Maharaj International Airport-T2", (19.102274, 72.874413)),
-    ("Marol Naka", (19.108436, 72.878579)),
-    ("MIDC-Andheri", (19.117303, 72.87382)),
-    ("SEEPZ", (19.12578, 72.873447)),
-    ("Aarey JVLR", (19.13101, 72.884255))
-]
-
-entry_gates = [
+[
   {
     "station": "Sahar Road",
     "gate_name": "B1",
@@ -48,7 +18,7 @@ entry_gates = [
     "lng": 72.87866188643856
   },
   {
-    "station": "MIDC-Andheri",
+    "station": "MIDC Andheri",
     "gate_name": "A1",
     "lat": 19.11750883755276,
     "lng": 72.873588065272
@@ -78,7 +48,7 @@ entry_gates = [
     "lng": 72.87872178691553
   },
   {
-    "station": "MIDC-Andheri",
+    "station": "MIDC Andheri",
     "gate_name": "B2",
     "lat": 19.11716834072912,
     "lng": 72.87335753475564
@@ -96,7 +66,7 @@ entry_gates = [
     "lng": 72.86553184646291
   },
   {
-    "station": "Chhatrapati Shivaji Maharaj International Airport-T2",
+    "station": "CSMIA T2",
     "gate_name": "A2",
     "lat": 19.101981246794765,
     "lng": 72.87375578045692
@@ -108,13 +78,13 @@ entry_gates = [
     "lng": 72.87837024979547
   },
   {
-    "station": "MIDC-Andheri",
+    "station": "MIDC Andheri",
     "gate_name": "A2",
     "lat": 19.117006886261027,
     "lng": 72.87456395605801
   },
   {
-    "station": "SEEPZ",
+    "station": "Seepz",
     "gate_name": "A2",
     "lat": 19.124743439526796,
     "lng": 72.87290799742655
@@ -132,7 +102,7 @@ entry_gates = [
     "lng": 72.86550807110984
   },
   {
-    "station": "Chhatrapati Shivaji Maharaj International Airport-T2",
+    "station": "CSMIA T2",
     "gate_name": "A1",
     "lat": 19.101772772570687,
     "lng": 72.87442172041368
@@ -144,19 +114,19 @@ entry_gates = [
     "lng": 72.87828387577284
   },
   {
-    "station": "MIDC-Andheri",
+    "station": "MIDC Andheri",
     "gate_name": "B1",
     "lat": 19.11737836396879,
     "lng": 72.87298650833662
   },
   {
-    "station": "SEEPZ",
+    "station": "seepz",
     "gate_name": "B1",
     "lat": 19.126537077955142,
     "lng": 72.87416483387422
   },
   {
-    "station": "SEEPZ",
+    "station": "Seepz",
     "gate_name": "B2",
     "lat": 19.12587860742024,
     "lng": 72.87369364070082
@@ -174,97 +144,97 @@ entry_gates = [
     "lng": 72.88418037098415
   },
   {
-    "station": "Chhatrapati Shivaji Maharaj International Airport-T1",
+    "station": "CIA T1",
     "gate_name": "A1",
     "lat": 19.093602422587466,
     "lng": 72.85382733982479
   },
   {
-    "station": "Chhatrapati Shivaji Maharaj International Airport-T1",
+    "station": "CIA T1",
     "gate_name": "B1",
     "lat": 19.095538333147626,
     "lng": 72.85209062561566
   },
   {
-    "station": "Santacruz Metro",
+    "station": "Santacruz",
     "gate_name": "B1",
     "lat": 19.079752411655814,
     "lng": 72.84729632126529
   },
   {
-    "station": "Santacruz Metro",
+    "station": "Santacruz",
     "gate_name": "B2",
     "lat": 19.07939708987345,
     "lng": 72.84659786197399
   },
   {
-    "station": "Santacruz Metro",
+    "station": "Santacruz",
     "gate_name": "A2",
     "lat": 19.077677891278526,
     "lng": 72.84658851595073
   },
   {
-    "station": "Santacruz Metro",
+    "station": "Santacruz",
     "gate_name": "A1",
     "lat": 19.077360930621793,
     "lng": 72.84724645465089
   },
   {
-    "station": "Bandra Colony",
+    "station": "Bandra colony",
     "gate_name": "B2",
     "lat": 19.070816917997067,
     "lng": 72.84908399595712
   },
   {
-    "station": "Bandra Colony",
+    "station": "Bandra colony",
     "gate_name": "B1",
     "lat": 19.07067170673861,
     "lng": 72.84885383614774
   },
   {
-    "station": "Bandra Colony",
+    "station": "Bandra colony",
     "gate_name": "A1",
     "lat": 19.069768552782502,
     "lng": 72.8494211515076
   },
   {
-    "station": "Bandra Colony",
+    "station": "Bandra colony",
     "gate_name": "A2",
     "lat": 19.06945270163818,
     "lng": 72.84988848225612
   },
   {
-    "station": "Bandra-Kurla Complex",
+    "station": "Bandra Kurla Complex",
     "gate_name": "B1",
     "lat": 19.061538845868007,
     "lng": 72.8536226958851
   },
   {
-    "station": "Bandra-Kurla Complex",
+    "station": "Bandra Kurla Complex",
     "gate_name": "A2",
     "lat": 19.05990379545249,
     "lng": 72.85566993933683
   },
   {
-    "station": "Bandra-Kurla Complex",
+    "station": "Bandra Kurla Complex",
     "gate_name": "A3",
     "lat": 19.05957860093652,
     "lng": 72.85493817714459
   },
   {
-    "station": "Bandra-Kurla Complex",
+    "station": "Bandra Kurla Complex",
     "gate_name": "A1",
     "lat": 19.059398466255786,
     "lng": 72.85579341373844
   },
   {
-    "station": "Bandra-Kurla Complex",
+    "station": "Bandra Kurla Complex",
     "gate_name": "A4",
     "lat": 19.059022894560435,
     "lng": 72.85528982336834
   },
   {
-    "station": "Bandra-Kurla Complex",
+    "station": "Bandra Kurla Complex",
     "gate_name": "A5",
     "lat": 19.0585806102699,
     "lng": 72.85552221705542
@@ -528,120 +498,9 @@ entry_gates = [
     "lng": 72.82042124570457
   },
   {
-    "station": "Chhatrapati Shivaji Maharaj International Airport-T2",
+    "station": "CSMI T2",
     "gate_name": "B1",
     "lat": 19.10197687714222,
     "lng": 72.87512565180569
   }
-]
-
-stations_data = [
-    {
-        "Station_Name": "Cuffe Parade",
-        "Display_Order": 27
-    },
-    {
-        "Station_Name": "Vidhan Bhavan",
-        "Display_Order": 26
-    },
-    {
-        "Station_Name": "Churchgate Metro",
-        "Display_Order": 25
-    },
-    {
-        "Station_Name": "Hutatma Chowk",
-        "Display_Order": 24
-    },
-    {
-        "Station_Name": "Chhatrapati Shivaji Maharaj Terminus Metro",
-        "Display_Order": 23
-    },
-    {
-        "Station_Name": "Kalbadevi",
-        "Display_Order": 22
-    },
-    {
-        "Station_Name": "Girgaon",
-        "Display_Order": 21
-    },
-    {
-        "Station_Name": "Grant Road Metro",
-        "Display_Order": 20
-    },
-    {
-        "Station_Name": "Jagannath Shankar Sheth Metro",
-        "Display_Order": 19
-    },
-    {
-        "Station_Name": "Mahalaxmi Metro",
-        "Display_Order": 18
-    },
-    {
-        "Station_Name": "Science Centre",
-        "Display_Order": 17
-    },
-    {
-        "Station_Name": "Acharya Atre Chowk",
-        "Display_Order": 16
-    },
-    {
-        "Station_Name": "Worli",
-        "Display_Order": 15
-    },
-    {
-        "Station_Name": "Siddhivinayak",
-        "Display_Order": 14
-    },
-    {
-        "Station_Name": "Dadar Metro",
-        "Display_Order": 13
-    },
-    {
-        "Station_Name": "Shitala Devi Mandir",
-        "Display_Order": 12
-    },
-    {
-        "Station_Name": "Dharavi",
-        "Display_Order": 11
-    },
-    {
-        "Station_Name": "Bandra-Kurla Complex",
-        "Display_Order": 10
-    },
-    {
-        "Station_Name": "Bandra Colony",
-        "Display_Order": 9
-    },
-    {
-        "Station_Name": "Santacruz Metro",
-        "Display_Order": 8
-    },
-    {
-        "Station_Name": "Chhatrapati Shivaji Maharaj International Airport-T1",
-        "Display_Order": 7
-    },
-    {
-        "Station_Name": "Sahar Road",
-        "Display_Order": 6
-    },
-    {
-        "Station_Name": "Chhatrapati Shivaji Maharaj International Airport-T2",
-        "Display_Order": 5
-    },
-    {
-        "Station_Name": "Marol Naka",
-        "Display_Order": 4
-    },
-    {
-        "Station_Name": "MIDC-Andheri",
-        "Display_Order": 3
-    },
-    {
-        "Station_Name": "SEEPZ",
-        "Display_Order": 2
-    },
-    {
-        "Station_Name": "Aarey JVLR",
-        "Display_Order": 1
-    }
 ]

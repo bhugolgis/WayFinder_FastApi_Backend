@@ -7,7 +7,7 @@ app = FastAPI(title="Metro Journey Planner")
 
 app.include_router(journey_router, prefix="/api")
 
-@app.get("/journey")
+@app.get("/journey-points")
 def get_journey(
     location: str = Query(..., description="User's location"),
     poi: str = Query(..., description="Place of interest")
@@ -20,7 +20,7 @@ def get_journey(
             "metro_stations": {
                 "no_of_stops": 5,
                 "time": "25 mins",
-                "stations": ["Station A", "Station B", "Station C", "Station D", "Station E"]
+                "stations": ["Station SEEPZ", "Station MIDC Andheri", "Station Marol Naka", "Station T2", "Station Sahar Road"]
             }
         }
     ]
