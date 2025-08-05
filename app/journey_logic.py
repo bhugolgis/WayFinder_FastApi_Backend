@@ -113,7 +113,9 @@ async def plan_journey(
     print("end_metro_stn: ", end_metro_stn)
 
     # Step 8: Generate metro route (logic for getting stations between start and end metro stations)
-    metro_route = get_station_path(start_metro_stn, end_metro_stn)
+    station_path_data = get_station_path(start_metro_stn, end_metro_stn)
+    metro_route = station_path_data["stations"]
+    towards_direction = station_path_data["direction"]
     print("metro_route", metro_route)
 
     # Step 9: Construct the journey array
@@ -121,13 +123,13 @@ async def plan_journey(
         journey_steps.append({
             "step": 1,
             "title": "Nearest Entry Gate",
-            "description": f'Gate {nearest_gate["gate_name"]} - {start_metro_stn}'
+            "description": f'Gate {nearest_gate["gate_name"]} - {start_metro_stn} towards {destination_value}'
         })
 
     journey_steps.append({
         "step": 2,
         "title": "Metro Route",
-        "description": f"{start_metro_stn} -> {end_metro_stn}",
+        "description": f"{start_metro_stn} -> {end_metro_stn} {towards_direction} ",
         "metro_stations": metro_route
     })
 
@@ -141,7 +143,7 @@ async def plan_journey(
         journey_steps.append({
             "step": 4,
             "title": "Distance",
-            "description": poi["distance_from_nearest_gate"] if poi.get("distance_from_nearest_gate") else "Distance from nearest gate could not be determined."
+            "description": (poi["distance_from_nearest_gate"] if poi.get("distance_from_nearest_gate") else "Distance from nearest gate could not be determined.") + " meters"
             # "description": f"29 meters"
         })
         journey_steps.append({
@@ -181,8 +183,21 @@ def get_station_path(start: str, end: str) -> List[str]:
     except ValueError:
         return []  # One or both stations not found
 
-    # Return path in correct direction
-    if start_idx <= end_idx:
-        return station_names[start_idx:end_idx + 1]
+    # # Return path in correct direction
+    # if start_idx <= end_idx:
+    #     return station_names[start_idx:end_idx + 1]
+    # else:
+    #     return station_names[end_idx:start_idx + 1][::-1]
+
+    # Determine direction
+    if start_idx < end_idx:
+        direction = "Aarey JVLR"  # Going North
+        stations = station_names[start_idx:end_idx + 1]
     else:
-        return station_names[end_idx:start_idx + 1][::-1]
+        direction = "Cuffe Parade"  # Going South
+        stations = station_names[end_idx:start_idx + 1][::-1]
+
+    return {
+        "stations": stations,
+        "direction": f"towards {direction}"
+    }
