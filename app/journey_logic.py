@@ -19,6 +19,7 @@ async def plan_journey(
 
     if source_station_name == destination_value:
         return {
+            "status": "failed",
             "message": f"Source location and destination cannot be same",
             "journey_array": []
         }
@@ -71,6 +72,7 @@ async def plan_journey(
         # print("dist_to_poi: ", dist_to_poi)
         if dist_to_poi < 1500:
             return {
+                "status": "failed",
                 "message": f"The POI '{destination_value}' is just {int(dist_to_poi)} meters away. You can walk directly.",
                 "journey_array": []
             }
@@ -87,6 +89,7 @@ async def plan_journey(
     
     if not gates_within_2km:
         return {
+            "status": "failed",
             "message": "No metro entry gates found within 2 km radius. Please move closer to a metro station.",
             "journey_array": []
         }
@@ -100,6 +103,7 @@ async def plan_journey(
     # Step 6: If POI destination, check if it's at the same station as nearest entry gate
     if is_destination_poi and poi["name"] == start_metro_stn:
         return {
+            "status": "failed",
             "message": f"The POI '{destination_value}' is at the same station as '{start_metro_stn}'. No need to use the metro.",
             "journey_array": []
         }
@@ -153,6 +157,7 @@ async def plan_journey(
         })
 
     return {
+        "status": "success",
         "message": "Journey plan ready.",
         "journey_array": journey_steps
     }
