@@ -4,7 +4,21 @@ from fastapi.responses import JSONResponse
 from app.api import router as journey_router
 from fastapi.middleware.cors import CORSMiddleware
 
+from fastapi import FastAPI, HTTPException, Request
+from fastapi.responses import JSONResponse
+
 app = FastAPI(title="Metro Journey Planner")
+
+@app.exception_handler(HTTPException)
+async def custom_http_exception_handler(request: Request, exc: HTTPException):
+    return JSONResponse(
+        status_code=exc.status_code,
+        content={
+            "status": "failed",
+            "message": "Something went wrong." if exc.status_code == 500 else "Invalid request.",
+            "journey_array": []
+        }
+    )
 
 app.include_router(journey_router, prefix="/api")
 
