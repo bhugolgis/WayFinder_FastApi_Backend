@@ -16,42 +16,19 @@ async def plan_journey(
     journey_steps = []
     # print("source_station_name: ", source_station_name)
 
+
+    if source_station_name == destination_value:
+        return {
+            "message": f"Source location and destination cannot be same",
+            "journey_array": []
+        }
+
     # Step 1: Get source coordinates
     station_names = [name for name, _ in station_coords]
     if source_station_name:
         is_source_metro_station = True
     else:
         is_source_metro_station = False
-
-    all_metro_stations = [
-    "Cuffe Parade",
-    "Vidhan Bhavan",
-    "Churchgate Metro",
-    "Hutatma Chowk",
-    "Chhatrapati Shivaji Maharaj Terminus Metro",
-    "Kalbadevi",
-    "Girgaon",
-    "Grant Road Metro",
-    "Jagannath Shankar Sheth Metro",
-    "Mahalaxmi Metro",
-    "Science Centre",
-    "Acharya Atre Chowk",
-    "Worli",
-    "Siddhivinayak",
-    "Dadar Metro",
-    "Shitala Devi Mandir",
-    "Dharavi",
-    "Bandra-Kurla Complex",
-    "Bandra Colony",
-    "Santacruz Metro",
-    "Chhatrapati Shivaji Maharaj International Airport-T1",
-    "Sahar Road",
-    "Chhatrapati Shivaji Maharaj International Airport-T2",
-    "Marol Naka",
-    "MIDC-Andheri",
-    "SEEPZ", 
-    "Aarey JVLR" 
-]
 
 
     if source_station_name:
