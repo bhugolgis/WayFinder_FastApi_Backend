@@ -2,10 +2,26 @@ from fastapi import FastAPI, Query
 from typing import List, Optional
 from fastapi.responses import JSONResponse
 from app.api import router as journey_router
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="Metro Journey Planner")
 
 app.include_router(journey_router, prefix="/api")
+
+# List of allowed origins (frontend URLs, etc.)
+origins = [
+    "http://10.202.100.207:3000/",
+    "http://localhost:3000",  # React/Vue dev server
+    "https://wayfinder.bhugolapps.com",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,            # Allows these origins
+    allow_credentials=True,
+    allow_methods=["*"],              # Allows all HTTP methods: GET, POST, PUT, etc.
+    allow_headers=["*"],              # Allows all headers
+)
 
 @app.get("/journey-points")
 def get_journey(
