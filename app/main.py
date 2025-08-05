@@ -9,19 +9,6 @@ from fastapi.responses import JSONResponse
 
 app = FastAPI(title="Metro Journey Planner")
 
-@app.exception_handler(HTTPException)
-async def custom_http_exception_handler(request: Request, exc: HTTPException):
-    return JSONResponse(
-        status_code=exc.status_code,
-        content={
-            "status": "failed",
-            "message": "Something went wrong." if exc.status_code == 500 else "Invalid request.",
-            "journey_array": []
-        }
-    )
-
-app.include_router(journey_router, prefix="/api")
-
 # List of allowed origins (frontend URLs, etc.)
 origins = [
     "http://10.202.100.207:3000/",
@@ -36,6 +23,21 @@ app.add_middleware(
     allow_methods=["*"],              # Allows all HTTP methods: GET, POST, PUT, etc.
     allow_headers=["*"],              # Allows all headers
 )
+
+@app.exception_handler(HTTPException)
+async def custom_http_exception_handler(request: Request, exc: HTTPException):
+    return JSONResponse(
+        status_code=exc.status_code,
+        content={
+            "status": "failed",
+            "message": "Something went wrong." if exc.status_code == 500 else "Invalid request.",
+            "journey_array": []
+        }
+    )
+
+app.include_router(journey_router, prefix="/api")
+
+
 
 @app.get("/journey-points")
 def get_journey(
