@@ -141,7 +141,7 @@ async def plan_journey(
         journey_steps.append({
             "step": 4,
             "title": "Distance",
-            "description": poi["distance_from_nearest_gate"]
+            "description": poi["distance_from_nearest_gate"] if poi.get("distance_from_nearest_gate") else "Distance from nearest gate could not be determined."
             # "description": f"29 meters"
         })
         journey_steps.append({
