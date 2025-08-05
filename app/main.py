@@ -11,7 +11,7 @@ app = FastAPI(title="Metro Journey Planner")
 
 # List of allowed origins (frontend URLs, etc.)
 origins = [
-    "http://10.202.100.207:3000/",
+    "http://10.202.100.207:3000",
     "http://localhost:3000",  # React/Vue dev server
     "https://wayfinder.bhugolapps.com",
 ]
