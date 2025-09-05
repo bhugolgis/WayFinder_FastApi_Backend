@@ -2,7 +2,7 @@ from fastapi import FastAPI, Query
 from typing import List, Optional
 from fastapi.responses import JSONResponse
 from app.api import router as journey_router
-from fastapi.middleware.cors import CORSMiddleware
+# from fastapi.middleware.cors import CORSMiddleware
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import JSONResponse
@@ -17,13 +17,13 @@ origins = [
     "https://adminwayfinder.bhugolapps.com",
 ]
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,            # Allows these origins
-    allow_credentials=True,
-    allow_methods=["*"],              # Allows all HTTP methods: GET, POST, PUT, etc.
-    allow_headers=["*"],              # Allows all headers
-)
+# app.add_middleware(
+#     CORSMiddleware,
+#     allow_origins=origins,            # Allows these origins
+#     allow_credentials=True,
+#     allow_methods=["*"],              # Allows all HTTP methods: GET, POST, PUT, etc.
+#     allow_headers=["*"],              # Allows all headers
+# )
 
 @app.exception_handler(HTTPException)
 async def custom_http_exception_handler(request: Request, exc: HTTPException):
