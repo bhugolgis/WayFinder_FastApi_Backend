@@ -78,22 +78,21 @@ async def plan_journey(
             }
 
     # Step 4: Find nearest entry gate within 2 km
-    if destination_type == "metro_stn":
-        gates_within_2km = []
-        for gate in entry_gates:
-            gate_coords = (gate["lat"], gate["lng"])
-            dist = geodesic(source_coords, gate_coords).meters
-            if dist <= 2000:
-                gates_within_2km.append((dist, gate))
-        
-        # print("gates_within_2km: ", gates_within_2km)
-        
-        if not gates_within_2km:
-            return {
-                "status": "failed",
-                "message": "No metro entry gates found within 2 km radius. Please move closer to a metro station.",
-                "journey_array": []
-            }
+    gates_within_2km = []
+    for gate in entry_gates:
+        gate_coords = (gate["lat"], gate["lng"])
+        dist = geodesic(source_coords, gate_coords).meters
+        if dist <= 2000:
+            gates_within_2km.append((dist, gate))
+    
+    # print("gates_within_2km: ", gates_within_2km)
+    
+    if not gates_within_2km:
+        return {
+            "status": "failed",
+            "message": "No metro entry gates found within 2 km radius. Please move closer to a metro station.",
+            "journey_array": []
+        }
 
     # Step 5: Get nearest entry gate
     nearest_gate = min(gates_within_2km, key=lambda x: x[0])[1]
