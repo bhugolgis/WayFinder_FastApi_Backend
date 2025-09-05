@@ -14,6 +14,7 @@ origins = [
     "http://10.202.100.207:3000",
     "http://localhost:3000",  # React/Vue dev server
     "https://wayfinder.bhugolapps.com",
+    "https://adminwayfinder.bhugolapps.com",
 ]
 
 app.add_middleware(
