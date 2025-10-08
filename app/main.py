@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Query
+from fastapi import Depends, FastAPI, Query, status
 from typing import List, Optional
 from fastapi.responses import JSONResponse
 from app.api import router as journey_router
@@ -6,6 +6,11 @@ from app.api import router as journey_router
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.responses import JSONResponse
+
+from app.database import get_db
+from app.models.models import TestPlaces
+from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy import update, select
 
 app = FastAPI(title="Metro Journey Planner")
 
@@ -31,7 +36,7 @@ async def custom_http_exception_handler(request: Request, exc: HTTPException):
         status_code=exc.status_code,
         content={
             "status": "failed",
-            "message": "Something went wrong." if exc.status_code == 500 else "Invalid request.",
+            "message": exc.detail,  # 👈 Use the actual error message
             "journey_array": []
         }
     )
@@ -62,3 +67,25 @@ def get_journey(
         "message": "Journey recommendation fetched successfully.",
         "journey_array": journey_data
     })
+
+
+
+@app.post("/update-all-type-of-lo", status_code=status.HTTP_200_OK)
+async def update_all_type_of_lo(
+    new_value: str = "TestValue",
+    db: AsyncSession = Depends(get_db)
+):
+    try:
+        stmt = update(TestPlaces).values(Type_of_Lo=new_value)
+        result = await db.execute(stmt)
+        await db.commit()
+        return {
+            "message": f"Successfully updated {result.rowcount} records",
+            "new_value": new_value
+        }
+    except Exception as e:
+        await db.rollback()
+        raise HTTPException(
+            status_code=500,
+            detail=f"Database error: {str(e)}"
+        )
