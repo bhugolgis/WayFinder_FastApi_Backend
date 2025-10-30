@@ -1,5 +1,3 @@
-#app/repository/station_repository.py
-
 import httpx
 import requests
 

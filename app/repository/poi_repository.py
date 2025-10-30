@@ -1,4 +1,3 @@
-# app/repository/poi_repository.py
 import httpx
 
 BASE_URL = "https://adminwayfinder.bhugolapps.com/items/Places"
