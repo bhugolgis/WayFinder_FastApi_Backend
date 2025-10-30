@@ -52,7 +52,7 @@ async def plan_journey(
         # print("destination_coords: ", destination_coords)
         
         is_destination_poi = True
-        station_name_of_poi =  get_station_name_by_id(poi["station_id"])
+        station_name_of_poi =  await get_station_name_by_id(poi["station_id"])
         print("station_name_of_poi: ", station_name_of_poi)
         poi["station_name"] = station_name_of_poi
         print("poi_data: ", poi)

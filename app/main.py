@@ -11,6 +11,7 @@ from app.database import get_db
 from app.models.models import TestPlaces
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import update, select
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="Metro Journey Planner")
 
@@ -22,13 +23,13 @@ origins = [
     "https://adminwayfinder.bhugolapps.com",
 ]
 
-# app.add_middleware(
-#     CORSMiddleware,
-#     allow_origins=origins,            # Allows these origins
-#     allow_credentials=True,
-#     allow_methods=["*"],              # Allows all HTTP methods: GET, POST, PUT, etc.
-#     allow_headers=["*"],              # Allows all headers
-# )
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],            # Allows these origins
+    allow_credentials=True,
+    allow_methods=["*"],              # Allows all HTTP methods: GET, POST, PUT, etc.
+    allow_headers=["*"],              # Allows all headers
+)
 
 @app.exception_handler(HTTPException)
 async def custom_http_exception_handler(request: Request, exc: HTTPException):
