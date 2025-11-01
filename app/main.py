@@ -15,7 +15,7 @@ app = FastAPI(title="Metro Journey Planner")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # Accept requests from any origin
-    allow_credentials=True,
+    # allow_credentials=True,
     allow_methods=["*"],  # All HTTP methods: GET, POST, PUT, DELETE, etc.
     allow_headers=["*"],  # All headers
 )
