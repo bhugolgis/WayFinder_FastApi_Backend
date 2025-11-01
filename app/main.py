@@ -1,34 +1,24 @@
-from fastapi import Depends, FastAPI, Query, status
+from fastapi import Depends, FastAPI, Query, status, Request, HTTPException
+from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Optional
-from fastapi.responses import JSONResponse
+
 from app.api import router as journey_router
-# from fastapi.middleware.cors import CORSMiddleware
-
-from fastapi import FastAPI, HTTPException, Request
-from fastapi.responses import JSONResponse
-
 from app.database import get_db
 from app.models.models import TestPlaces
 from sqlalchemy.ext.asyncio import AsyncSession
-from sqlalchemy import update, select
+from sqlalchemy import update
 
 app = FastAPI(title="Metro Journey Planner")
 
-# List of allowed origins (frontend URLs, etc.)
-origins = [
-    "http://10.202.100.207:3000",
-    "http://localhost:3000",  # React/Vue dev server
-    "https://wayfinder.bhugolapps.com",
-    "https://adminwayfinder.bhugolapps.com",
-]
-
-# app.add_middleware(
-#     CORSMiddleware,
-#     allow_origins=origins,            # Allows these origins
-#     allow_credentials=True,
-#     allow_methods=["*"],              # Allows all HTTP methods: GET, POST, PUT, etc.
-#     allow_headers=["*"],              # Allows all headers
-# )
+# ✅ Allow ALL origins (for development or public API)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Accept requests from any origin
+    allow_credentials=True,
+    allow_methods=["*"],  # All HTTP methods: GET, POST, PUT, DELETE, etc.
+    allow_headers=["*"],  # All headers
+)
 
 @app.exception_handler(HTTPException)
 async def custom_http_exception_handler(request: Request, exc: HTTPException):
@@ -36,7 +26,7 @@ async def custom_http_exception_handler(request: Request, exc: HTTPException):
         status_code=exc.status_code,
         content={
             "status": "failed",
-            "message": exc.detail,  # 👈 Use the actual error message
+            "message": exc.detail,
             "journey_array": []
         }
     )
@@ -44,13 +34,11 @@ async def custom_http_exception_handler(request: Request, exc: HTTPException):
 app.include_router(journey_router, prefix="/api")
 
 
-
 @app.get("/journey-points")
 def get_journey(
     location: str = Query(..., description="User's location"),
     poi: str = Query(..., description="Place of interest")
 ):
-    # Sample static response — logic/db to be added later
     journey_data = [
         {
             "title": f"Visit {poi} near {location}",
@@ -67,7 +55,6 @@ def get_journey(
         "message": "Journey recommendation fetched successfully.",
         "journey_array": journey_data
     })
-
 
 
 @app.post("/update-all-type-of-lo", status_code=status.HTTP_200_OK)

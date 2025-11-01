@@ -52,7 +52,7 @@ async def plan_journey(
         # print("destination_coords: ", destination_coords)
         
         is_destination_poi = True
-        station_name_of_poi =  get_station_name_by_id(poi["station_id"])
+        station_name_of_poi =  await get_station_name_by_id(poi["station_id"])
         print("station_name_of_poi: ", station_name_of_poi)
         poi["station_name"] = station_name_of_poi
         print("poi_data: ", poi)
@@ -164,37 +164,22 @@ async def plan_journey(
         "journey_array": journey_steps
     }
 
-def get_station_path(start: str, end: str) -> List[str]:
-    # Sort stations by Display_Order descending
+def get_station_path(start: str, end: str) -> Dict[str, List[str] | str]:
     sorted_stations = sorted(stations_data, key=lambda x: x["Display_Order"], reverse=True)
-    # print("sorted_stations: ", sorted_stations)
-    
-    # Build a simple list of station names
     station_names = [station["Station_Name"] for station in sorted_stations]
-    # print("station_names: ", station_names)
-    print("start and end: ", start, end)
 
     try:
-        print("brfore try")
         start_idx = station_names.index(start)
-        print("hello")
         end_idx = station_names.index(end)
-        print("start_idx, end_idx: ", start_idx, end_idx)
-    except ValueError:
-        return []  # One or both stations not found
+    except ValueError as e:
+        # Either station not found
+        raise ValueError(f"Station not found in metro line: {e}")
 
-    # # Return path in correct direction
-    # if start_idx <= end_idx:
-    #     return station_names[start_idx:end_idx + 1]
-    # else:
-    #     return station_names[end_idx:start_idx + 1][::-1]
-
-    # Determine direction
     if start_idx < end_idx:
-        direction = "Aarey JVLR"  # Going North
+        direction = "Aarey JVLR"
         stations = station_names[start_idx:end_idx + 1]
     else:
-        direction = "Cuffe Parade"  # Going South
+        direction = "Cuffe Parade"
         stations = station_names[end_idx:start_idx + 1][::-1]
 
     return {

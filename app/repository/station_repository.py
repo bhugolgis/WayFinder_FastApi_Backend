@@ -1,36 +1,30 @@
 import httpx
-import requests
 
+# 🔴 Remove extra spaces in URL!
 STATION_BASE_URL = "https://adminwayfinder.bhugolapps.com/items/Stations"
 
-def get_station_name_by_id(station_id: int):
+async def get_station_name_by_id(station_id: int) -> str | None:
+    """
+    Fetch station name by ID from external CMS API (async).
+    """
     url = f"{STATION_BASE_URL}/{station_id}"
     params = {
         "fields": "Station_Name"
     }
-    resp = requests.get(url, params=params, timeout=5)
-    resp.raise_for_status()
-    print(resp.json()["data"].get("Station_Name"))
-    return resp.json()["data"].get("Station_Name")
 
-    # async with httpx.AsyncClient() as client:
-    #     response = await client.get(url, params=params)
-    #     print(f"Status code: {response.status_code}")  # Debug: Print status code
-    #     print(f"Raw response text: {response.text}")   # Debug: Print raw response body
-    #     response.raise_for_status()
-    #     data = response.json()
-    #     print(f"Parsed JSON data: {data}")             # Debug: Print parsed JSON
-    
-    # station_name = data.get("data", {}).get("Station_Name")
-    # return {"station_name": station_name}
+    async with httpx.AsyncClient(timeout=10.0) as client:
+        try:
+            response = await client.get(url, params=params)
+            response.raise_for_status()
+            data = response.json()
+            
+            # Directus returns data like: { "data": { "Station_Name": "..." } }
+            station_name = data.get("data", {}).get("Station_Name")
+            return station_name
 
-
-# import requests
- 
-# url = "https://adminwayfinder.bhugolapps.com/items/Stations/11"
-# params = {"fields": "Station_Name"}
- 
-# resp = requests.get(url, params=params, timeout=5)
-# resp.raise_for_status()
- 
-# print(resp.json()["data"].get("Station_Name"))
+        except httpx.HTTPStatusError as e:
+            print(f"HTTP error fetching station {station_id}: {e}")
+            return None
+        except Exception as e:
+            print(f"Unexpected error fetching station {station_id}: {e}")
+            return None
