@@ -14,7 +14,7 @@ app = FastAPI(title="Metro Journey Planner")
 # ✅ Allow ALL origins (for development or public API)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://wayfinder.bhugolapps.com"],
+    allow_origins=["https://wayfinder.bhugolapps.com", "http://10.202.100.187:3000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
