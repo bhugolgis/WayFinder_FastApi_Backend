@@ -3,7 +3,8 @@ from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Optional
 
-from app.api import router as journey_router
+from app.api.journey import router as journey_router
+from app.api.dashboard import router as dashboard_router
 from app.database import get_db
 from app.models.models import TestPlaces
 from sqlalchemy.ext.asyncio import AsyncSession
@@ -14,7 +15,7 @@ app = FastAPI(title="Metro Journey Planner")
 # ✅ Allow ALL origins (for development or public API)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://wayfinder.bhugolapps.com", "http://10.202.100.187:3000"],
+    allow_origins=["https://wayfinder.bhugolapps.com", "http://10.202.100.187:3000","http://10.202.101.42:3000","http://localhost:3000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -33,6 +34,7 @@ async def custom_http_exception_handler(request: Request, exc: HTTPException):
     )
 
 app.include_router(journey_router, prefix="/api")
+app.include_router(dashboard_router, prefix="/api")
 
 
 @app.get("/journey-points")
