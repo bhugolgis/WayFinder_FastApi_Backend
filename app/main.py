@@ -15,7 +15,7 @@ app = FastAPI(title="Metro Journey Planner")
 # ✅ Allow ALL origins (for development or public API)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://wayfinder.bhugolapps.com", "http://10.202.100.187:3000","http://10.202.101.42:3000","http://localhost:3000"],
+    allow_origins=["https://wayfinder.bhugolapps.com", "http://10.202.100.187:3000","http://10.202.101.42:3000","http://localhost:3000","https://wayfinder-dashboard.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
